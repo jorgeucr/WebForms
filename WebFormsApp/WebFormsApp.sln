@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsApp", "WebFormsApp\WebFormsApp.csproj", "{FD2FB024-18E0-4F81-A97C-3B6CEA06F601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsApp.Tests", "WebFormsApp.Tests\WebFormsApp.Tests.csproj", "{0F5CDD9C-81F6-4258-A1EE-1FD09C372F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms", "WindowsForms\WindowsForms.csproj", "{3D54A7EA-55E8-42E5-AFD0-B05FAD3FCB7B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jorgeartcastillo.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebFormsApp.Tests\\WebFormsApp.Tests.csproj
+		SccProjectName1 = WebFormsApp.Tests
+		SccLocalPath1 = WebFormsApp.Tests
+		SccProjectUniqueName2 = WebFormsApp\\WebFormsApp.csproj
+		SccProjectName2 = WebFormsApp
+		SccLocalPath2 = WebFormsApp
+		SccProjectUniqueName3 = WindowsForms\\WindowsForms.csproj
+		SccProjectName3 = WindowsForms
+		SccLocalPath3 = WindowsForms
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2FB024-18E0-4F81-A97C-3B6CEA06F601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2FB024-18E0-4F81-A97C-3B6CEA06F601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2FB024-18E0-4F81-A97C-3B6CEA06F601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2FB024-18E0-4F81-A97C-3B6CEA06F601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5CDD9C-81F6-4258-A1EE-1FD09C372F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5CDD9C-81F6-4258-A1EE-1FD09C372F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5CDD9C-81F6-4258-A1EE-1FD09C372F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5CDD9C-81F6-4258-A1EE-1FD09C372F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D54A7EA-55E8-42E5-AFD0-B05FAD3FCB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D54A7EA-55E8-42E5-AFD0-B05FAD3FCB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D54A7EA-55E8-42E5-AFD0-B05FAD3FCB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D54A7EA-55E8-42E5-AFD0-B05FAD3FCB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Jorge\Desktop\Estudiando\Código\WebFormsApp\WindowsForms\bin\Release\WindowsForms.exe.config
+C:\Users\Jorge\Desktop\Estudiando\Código\WebFormsApp\WindowsForms\bin\Release\WindowsForms.exe
+C:\Users\Jorge\Desktop\Estudiando\Código\WebFormsApp\WindowsForms\bin\Release\WindowsForms.pdb
+C:\Users\Jorge\Desktop\Estudiando\Código\WebFormsApp\WindowsForms\obj\Release\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\Estudiando\Código\WebFormsApp\WindowsForms\obj\Release\WindowsForms.Properties.Resources.resources
+C:\Users\Jorge\Desktop\Estudiando\Código\WebFormsApp\WindowsForms\obj\Release\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Jorge\Desktop\Estudiando\Código\WebFormsApp\WindowsForms\obj\Release\WindowsForms.exe
+C:\Users\Jorge\Desktop\Estudiando\Código\WebFormsApp\WindowsForms\obj\Release\WindowsForms.pdb
